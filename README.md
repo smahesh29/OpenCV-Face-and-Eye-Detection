@@ -1,6 +1,3 @@
-# Open-CV-Face-and-Eye-Detection
-Detects face and eyes of a person from image or webcam using opencv-python.
-
 # About Project:
 The goal of this project is to detect Faces and Eyes in the images and from webcam. I have used Haar feature-based cascade classifiers 
 which is one of the effective methods of object detection as proposed by Paul Viola and Michael Jones.
